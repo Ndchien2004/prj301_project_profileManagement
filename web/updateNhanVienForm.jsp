@@ -68,9 +68,27 @@
         .form-container input[type="submit"]:hover {
             background-color: #0056b3;
         }
+
+        .back-to-nhanvien {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            background-color: #1877f2;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 4px;
+            text-decoration: none;
+            font-size: 14px;
+            transition: background-color 0.3s ease;
+        }
+
+        .back-to-nhanvien:hover {
+            background-color: #0056b3;
+        }
     </style>
 </head>
 <body>
+    <a href="NhanVien" class="back-to-nhanvien">Quay về trang trước</a>
     <div class="container">
         <h1>Cập nhật Nhân viên</h1>
         <div class="form-container">

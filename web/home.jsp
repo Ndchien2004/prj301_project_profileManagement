@@ -29,18 +29,16 @@
         <script>
             function navigateTo(page) {
                 window.location.href = page;
-                
+
             }
         </script>
     </head>
     <body>
         <div id="nav-bar">
-            <div id="nav-header">
+            <div id="nav-header" style="text-align: center">
                 Profile Management
-                <label for="nav-toggle">
-                    <span id="nav-toggle-burger"></span>
-                </label>
-                <hr>
+
+
             </div>
 
             <div id="nav-content">
