@@ -350,7 +350,7 @@
                 notification.classList.remove('show');
             }, 3000);
         }
-
+        
         function confirmDelete(maNhanVien) {
             document.getElementById('deleteMaNhanVien').value = maNhanVien;
             document.getElementById('deleteModal').style.display = 'block';

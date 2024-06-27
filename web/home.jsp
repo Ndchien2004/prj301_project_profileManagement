@@ -45,7 +45,7 @@
                 <div class="nav-button" onclick="navigateTo('general.jsp')">
                     <i class="fas fa-info-circle"></i><span>General Information</span>
                 </div>
-                <div class="nav-button" onclick="navigateTo('position.jsp')">
+                <div class="nav-button" onclick="navigateTo('chucVu')">
                     <i class="fas fa-briefcase"></i><span>Position</span>
                 </div>
                 <div class="nav-button" onclick="navigateTo('addNhanVienServl')">
